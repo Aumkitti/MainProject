@@ -1,0 +1,20 @@
+[
+  {
+    "fullName": "John Doe",
+    "role": "Admin",
+    "username": "test1",
+    "password": "123456"
+  },
+  {
+    "fullName": "John Doe",
+    "role": "Admin",
+    "username": "test2",
+    "password": "123456"
+  },
+  {
+    "fullName": "John Doe",
+    "role": "Admin",
+    "username": "test3",
+    "password": "123456"
+  }
+]
